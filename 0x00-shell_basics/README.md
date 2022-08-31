@@ -11,3 +11,5 @@ The 4 task displays hidden files
 The 5 task displays user and group IDs
 
 The 6 task creates a nested directory
+
+The 7 task moves a file 
