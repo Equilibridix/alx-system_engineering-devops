@@ -25,4 +25,6 @@ The 11 task prints the contents of the current and previous directories and /boo
 The 12 task prints the type of file
 
 The 13 task creates symbolic link
+
+The 14 task copies .html files
  
