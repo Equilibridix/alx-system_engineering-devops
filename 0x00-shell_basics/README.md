@@ -35,3 +35,5 @@ The 16 task deletes files with tilde
 The 17 task creates multiple directories
 
 The 18 task lists content in the longest format
+
+The 19 task detects School data
