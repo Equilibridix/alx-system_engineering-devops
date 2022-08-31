@@ -16,4 +16,7 @@ The 7 task moves a file
 
 The 8 task deletes a file
 
-The 9 task deletes a directory 
+The 9 task deletes a directory
+
+The 10 task prints a previous working directory
+ 
