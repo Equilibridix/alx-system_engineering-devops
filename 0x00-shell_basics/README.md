@@ -14,4 +14,6 @@ The 6 task creates a nested directory
 
 The 7 task moves a file
 
-The 8 task deletes a file 
+The 8 task deletes a file
+
+The 9 task deletes a directory 
