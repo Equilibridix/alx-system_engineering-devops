@@ -21,4 +21,6 @@ The 9 task deletes a directory
 The 10 task prints a previous working directory
 
 The 11 task prints the contents of the current and previous directories and /boot in long format
+
+The 12 task prints the type of file
  
