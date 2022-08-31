@@ -9,3 +9,5 @@ The 3 task displays current directory in long format
 The 4 task displays hidden files
 
 The 5 task displays user and group IDs
+
+The 6 task creates a nested directory
