@@ -27,3 +27,7 @@ The 12 task prints the type of file
 The 13 task creates a symbolic link 
 
 The 14 task copies .html files
+
+The 15 task moves files via globbing
+
+The 16 task deletes files with tilde
