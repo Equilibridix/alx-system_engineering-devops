@@ -3,3 +3,5 @@ The 1 task prints the contents list of the working directory
 
 The 2 task prints the home directory
 The 3 task displays current directory in long format
+
+The 4 task displays hidden files
