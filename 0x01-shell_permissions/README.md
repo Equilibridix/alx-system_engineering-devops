@@ -8,4 +8,6 @@ The 3 task changes file ownership
 
 The 4 task creates a file
 
-The 5 task gives permission to execute  
+The 5 task gives permission to execute
+
+The 6 task gives multiple permissions to the file   
