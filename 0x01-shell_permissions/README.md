@@ -18,4 +18,6 @@ The 8 task gives no permission to the owner and group owner but gives all permis
 
 The 9 task sets the permission to owner, group owner and other users
 
-The 10 task sets the mode of the hello file to the olleh file    
+The 10 task sets the mode of the hello file to the olleh file
+
+The 11 task adds permission without removing existing permissions    
