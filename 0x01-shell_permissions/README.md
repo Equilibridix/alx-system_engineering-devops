@@ -6,4 +6,6 @@ The 2 task shows the groups a user is in
 
 The 3 task changes file ownership
 
-The 4 task creates a file  
+The 4 task creates a file
+
+The 5 task gives permission to execute  
