@@ -12,4 +12,6 @@ The 5 task gives permission to execute
 
 The 6 task gives multiple permissions to the file
 
-The 7 task gives permissions to execute to owner, group owner and other users    
+The 7 task gives permissions to execute to owner, group owner and other users
+
+The 8 task gives no permission to the owner and group owner but gives all permisions to other users    
