@@ -10,4 +10,6 @@ The 4 task creates a file
 
 The 5 task gives permission to execute
 
-The 6 task gives multiple permissions to the file   
+The 6 task gives multiple permissions to the file
+
+The 7 task gives permissions to execute to owner, group owner and other users    
