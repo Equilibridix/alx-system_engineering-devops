@@ -31,3 +31,5 @@ The 14 task displays lines containing the pattern "root"
 The 15 task displays number of lines containing "bin"
 
 The 16 task displays lines containing the pattern root and 3 lines after
+
+The 17 task displays lines that do not contain "bin"
