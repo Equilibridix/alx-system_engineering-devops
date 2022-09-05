@@ -39,3 +39,5 @@ The 18 task displays both uppercase and lowercase lines in a file
 The 19 task replaces characters
 
 The 20 task removes letters c and C from input
+
+The 21 task reverses its input
