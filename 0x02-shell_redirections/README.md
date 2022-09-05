@@ -17,3 +17,5 @@ The 7 task creates a file with special characters
 The 8 task redirects standard output to a file
 
 The 9 task duplicates the last line of a file
+
+The 10 task deletes regular files with a .js extension that are presentin cwd and its subfolders
