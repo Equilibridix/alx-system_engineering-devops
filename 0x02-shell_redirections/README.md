@@ -15,3 +15,5 @@ The 6 task displays the 3rd line in a file
 The 7 task creates a file with special characters
 
 The 8 task redirects standard output to a file
+
+The 9 task duplicates the last line of a file
