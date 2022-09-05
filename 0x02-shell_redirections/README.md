@@ -11,3 +11,5 @@ The 4 task prints the last 10 lines of a file
 The 5 task prints the first 10 lines of a file
 
 The 6 task displays the 3rd line in a file
+
+The 7 task creates a file with special characters
