@@ -5,3 +5,5 @@ The 1 task displays a confused smiley
 The 2 task displays the content of /etc/passwd file
 
 The 3 task displays the content of two files
+
+The 4 task prints the last 10 lines of a file
