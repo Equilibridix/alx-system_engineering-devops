@@ -41,3 +41,5 @@ The 19 task replaces characters
 The 20 task removes letters c and C from input
 
 The 21 task reverses its input
+
+The 22 task displays all user and their home directories sorted by users
