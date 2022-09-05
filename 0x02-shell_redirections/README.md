@@ -23,3 +23,5 @@ The 10 task deletes regular files with a .js extension that are presentin cwd an
 The 11 task counts the number of directories and sub-directories
 
 The 12 task displays 10 newest files in the current directory and sorted from newest to oldest
+
+The 13 task lists words only once and sorted
