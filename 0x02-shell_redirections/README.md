@@ -43,3 +43,5 @@ The 20 task removes letters c and C from input
 The 21 task reverses its input
 
 The 22 task displays all user and their home directories sorted by users
+
+The 23 task finds all empty files and directories in current directory and sub-directories
