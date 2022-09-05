@@ -9,3 +9,5 @@ The 3 task displays the content of two files
 The 4 task prints the last 10 lines of a file
 
 The 5 task prints the first 10 lines of a file
+
+The 6 task displays the 3rd line in a file
