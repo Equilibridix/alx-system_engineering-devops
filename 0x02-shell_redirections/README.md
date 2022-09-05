@@ -49,3 +49,5 @@ The 23 task finds all empty files and directories in current directory and sub-d
 The 24 task lists files with .gif in current directory and sub-directories
 
 The 25 task prints an acrostic
+
+The 26 task parses web server logs and displays 11 hosts 
