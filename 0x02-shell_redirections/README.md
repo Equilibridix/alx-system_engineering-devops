@@ -35,3 +35,5 @@ The 16 task displays lines containing the pattern root and 3 lines after
 The 17 task displays lines that do not contain "bin"
 
 The 18 task displays both uppercase and lowercase lines in a file 
+
+The 19 task replaces characters
