@@ -45,3 +45,5 @@ The 21 task reverses its input
 The 22 task displays all user and their home directories sorted by users
 
 The 23 task finds all empty files and directories in current directory and sub-directories
+
+The 24 task lists files with .gif in current directory and sub-directories
