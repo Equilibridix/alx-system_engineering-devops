@@ -25,3 +25,5 @@ The 11 task counts the number of directories and sub-directories
 The 12 task displays 10 newest files in the current directory and sorted from newest to oldest
 
 The 13 task lists words only once and sorted
+
+The 14 task displays lines containing the pattern "root"
