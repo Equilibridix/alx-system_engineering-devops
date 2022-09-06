@@ -17,3 +17,5 @@ The 7 task creates a new global variable
 The 8 task prints the result of a arithmetic expansion
 
 The 9 tasks prints the result of division between two environment variables 
+
+The 10 task prints the exponentiation between two environment variables 
