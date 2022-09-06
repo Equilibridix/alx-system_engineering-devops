@@ -22,4 +22,6 @@ The 10 task prints the exponentiation between two environment variables
 
 The 11 task converts a number from base 2 to base ten
 
-The 12 task prints all possible combinations of two letters except oo 
+The 12 task prints all possible combinations of two letters except oo
+
+The 13 task prints a number in two decimal places 
