@@ -20,4 +20,6 @@ The 9 tasks prints the result of division between two environment variables
 
 The 10 task prints the exponentiation between two environment variables
 
-The 11 task converts a number from base 2 to base ten 
+The 11 task converts a number from base 2 to base ten
+
+The 12 task prints all possible combinations of two letters except oo 
