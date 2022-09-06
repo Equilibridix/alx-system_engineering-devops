@@ -7,3 +7,7 @@ The 2 task adds /action to the PATH
 The 3 task counts the number of directories in the PATH
 
 The 4 task lists environment variables
+
+The 5 task lists local and global variables and functions
+
+The 6 task creates a local variable
