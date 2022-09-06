@@ -18,4 +18,6 @@ The 8 task prints the result of a arithmetic expansion
 
 The 9 tasks prints the result of division between two environment variables 
 
-The 10 task prints the exponentiation between two environment variables 
+The 10 task prints the exponentiation between two environment variables
+
+The 11 task converts a number from base 2 to base ten 
