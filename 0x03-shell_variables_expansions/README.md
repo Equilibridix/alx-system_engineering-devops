@@ -28,4 +28,6 @@ The 13 task prints a number in two decimal places
 
 The 14 task converts a number from base 10 t0 16
 
-The 15 task encodes and decodes text using rot13 encryption 
+The 15 task encodes and decodes text using rot13 encryption
+
+The 17 task adds two numbers stored in environmental variables WATER and STIR 
