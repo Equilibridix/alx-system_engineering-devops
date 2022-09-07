@@ -30,4 +30,6 @@ The 14 task converts a number from base 10 t0 16
 
 The 15 task encodes and decodes text using rot13 encryption
 
+The 16 task prints every other line from input
+
 The 17 task adds two numbers stored in environmental variables WATER and STIR 
