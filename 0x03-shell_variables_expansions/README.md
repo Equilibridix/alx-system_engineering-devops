@@ -24,4 +24,6 @@ The 11 task converts a number from base 2 to base ten
 
 The 12 task prints all possible combinations of two letters except oo
 
-The 13 task prints a number in two decimal places 
+The 13 task prints a number in two decimal places
+
+The 14 task converts a number from base 10 t0 16 
